@@ -4,8 +4,6 @@
 // Last Updated: 9 February 2026
 // ─────────────────────────────────────────────
 
-// Duplicate domain/license guard (defense-in-depth)
-
 const CONFIG = {
     API_BASE: 'https://api.guerrillamail.com/ajax.php',
 
